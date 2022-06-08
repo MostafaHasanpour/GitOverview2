@@ -1,0 +1,5 @@
+e.txt
+*/bin
+bin/*
+obj/*.dll
+!bin/testNot.txt

@@ -1,2 +1,0 @@
-a modified in stage
-a modified after commit 
